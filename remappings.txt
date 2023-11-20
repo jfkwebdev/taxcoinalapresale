@@ -1,0 +1,6 @@
+forge-std/=lib/forge-std/src
+solady/=lib/solady/src
+oz/=lib/openzeppelin-contracts/contracts
+unicore/=lib/v2-core/contracts
+uniphery/=lib/v2-periphery/contracts
+weth/=lib/canonical-weth/contracts

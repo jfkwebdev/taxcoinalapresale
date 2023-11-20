@@ -10,5 +10,36 @@ out/
 # Docs
 docs/
 
+#hiding
+coinflat
+presaleflat
+broadcast/
+
+.DS_Store
+
+
+lib/canonical-weth
+lib/forge-std
+lib/v2-core
+lib/periphery
+
+test/
+script/
+
+src/coin.sol
+src/coin2.sol
+src/coin4.sol
+
+src/presale.sol
+src/presale2.sol
+src/presale3.sol
+
+src/Counter.sol
+
+
+#YOU BETTA NOT
 # Dotenv file
 .env
+
+DEPLOY.TXT
+lessgo.txt
